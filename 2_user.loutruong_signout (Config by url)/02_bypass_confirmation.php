@@ -1,5 +1,4 @@
 <?php
-// url= /wp-login.php?action=logout
 add_action('check_admin_referer', 'custom_logout_redirect_for_polylang', 10, 2);
 
 function custom_logout_redirect_for_polylang($action, $result)
