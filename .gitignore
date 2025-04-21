@@ -44,3 +44,5 @@ next-env.d.ts
 .history
 2025-03-23_loutruong_Flexbox grid layout
 node_modules
+
+wp-config.php
